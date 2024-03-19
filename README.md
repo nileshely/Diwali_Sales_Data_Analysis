@@ -1,5 +1,5 @@
 # Diwali_Sales_Data_Analysis
-Analyze Diwali sales data to improve customer experience and sales.
+The analysis encompassed data cleaning and manipulation followed by exploratory data analysis (EDA) utilizing Python libraries such as pandas, matplotlib, and seaborn. Through this process, potential customers were identified across various states, occupations, genders, and age groups, contributing to an enhanced customer experience. Furthermore, sales were bolstered by pinpointing the most popular product categories and individual products, facilitating informed inventory planning to meet demand effectively.
 
 
 
